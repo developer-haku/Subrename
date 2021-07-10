@@ -94,17 +94,9 @@
   "bugs": {
     "url": "https://github.com/developer-haku/Subrename/issues"
   },
-  "keywords": [
-    "electron",
-    "boilerplate",
-    "react",
-    "typescript",
-    "ts",
-    "sass",
-    "webpack",
-    "hot",
-    "reload"
-  ],
+  "author": {
+    "name": "L.C."
+  },
   "homepage": "https://github.com/developer-haku/Subrename#readme",
   "jest": {
     "testURL": "http://localhost/",

@@ -2,6 +2,7 @@
   "name": "subrename",
   "productName": "Subrename",
   "description": "Rename the subtitle files to the same name as the video files.",
+  "version": "0.0.1",
   "main": "./main.prod.js",
   "scripts": {
     "electron-rebuild": "node -r ../.erb/scripts/BabelRegister.js ../.erb/scripts/ElectronRebuild.js",
